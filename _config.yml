@@ -2,13 +2,14 @@
 title: Dennis op 't Roodt
 position: Ph.D. Student
 affiliation: Eindhoven University of Technology (TU/e)
+affiliation_link: https://www.tue.nl/
 email: d.n.e.o.t.roodt@tue.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Dennis op 't Roodt, cryptography, post-quantum cryptography, SLH-DSA, SPHINCS+, Jasmin, EasyCrypt, formal verification, TU/e
+description: Personal homepage of Dennis op 't Roodt, PhD student in post-quantum cryptography at the Eindhoven University of Technology (TU/e).
+canonical: https://klinkerklank.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -40,18 +41,8 @@ font: "Sans Serif" # or "Sans"
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
