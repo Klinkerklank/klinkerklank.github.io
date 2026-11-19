@@ -9,7 +9,7 @@ I recently started my PhD at the Eindhoven University of Technology (TU/e), wher
 ## Education
 
 - **MSc Information Security Technology (TU/e, 2026)**. Thesis: "Towards High-Performance Implementations of SPHINCS+ with Strong Correctness Guarantees".
-- **Bsc Computer Science and Engineering (TU/e, 2022)**
+- **BSc Computer Science and Engineering (TU/e, 2022)**
 
 ## Research Interests
 
