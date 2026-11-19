@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I recently started my PhD at the Eindhoven University of Technology (TU/e), where I am part of the Applied and Provable Security group, with as supervisor dr. Andreas Hülsing.
+I recently started my PhD at the Eindhoven University of Technology (TU/e), where I am part of the Applied and Provable Security group, with as supervisor [dr. Andreas Hülsing](https://huelsing.net/wordpress/).
 
 ## Education
 
